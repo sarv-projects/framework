@@ -215,13 +215,5 @@ nursebot run nursebot
 
 ✅ After mock testing passes, plug in **real sensors**.
 
----
 
-### ✅ **Verdict**
-
-* Complete, forkable, and **production-ready** design doc
-* Minor additions: QoS, mock testing, naming consistency, optional templates
-* Next step: **start coding Phase 1** — message bus + base nodes + FSM/BT
-
----
 
