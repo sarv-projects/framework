@@ -8,7 +8,7 @@
 ## **1️⃣ Repository Layout (Framework-only, forkable)**
 
 ```
-NBot-framework/
+nbot-framework/
 ├── framework/
 │   ├── __init__.py
 │   ├── cli.py                 # CLI: create-app, create-node, run
