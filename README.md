@@ -1,7 +1,7 @@
 
 ---
 
-# **NBot v3.0 — Robotics Framework  — Prototype**
+# **NBot v1.0 — Robotics Framework  — Prototype**
 
 ---
 
