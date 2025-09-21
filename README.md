@@ -1,14 +1,14 @@
 
 ---
 
-# **NurseBot v3.0 — Robotics Framework  — Prototype**
+# **NBot v3.0 — Robotics Framework  — Prototype**
 
 ---
 
 ## **1️⃣ Repository Layout (Framework-only, forkable)**
 
 ```
-nursebot-framework/
+NBot-framework/
 ├── framework/
 │   ├── __init__.py
 │   ├── cli.py                 # CLI: create-app, create-node, run
@@ -24,7 +24,7 @@ nursebot-framework/
 │
 ├── setup.py
 ├── requirements.txt
-├── nursebot_launcher.py       # Entrypoint
+├── nbot_launcher.py       # Entrypoint
 ├── README.md
 └── LICENSE
 ```
@@ -136,7 +136,7 @@ Lifecycle:
 
 ```bash
 git clone <fork>
-cd nursebot-framework
+cd nbot-framework
 pip install -e .
 ```
 
