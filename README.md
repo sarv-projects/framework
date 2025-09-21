@@ -143,20 +143,20 @@ pip install -e .
 2. **Start app**
 
 ```bash
-nursebot create-app nursebot
+nbot create-app nursebot
 ```
 
 3. **Add modules/nodes**
 
 ```bash
-nursebot create-node nursebot voice_node
-nursebot create-node nursebot navigation_node
+nbot create-node nursebot voice_node
+nbot create-node nursebot navigation_node
 ```
 
 4. **Run app**
 
 ```bash
-nursebot run nursebot
+nbot run nursebot
 ```
 
 ✅ CLI auto-wires topics, configs, installs dependencies.
